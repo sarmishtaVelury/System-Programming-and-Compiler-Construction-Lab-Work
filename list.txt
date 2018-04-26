@@ -1,0 +1,8 @@
+1. First and Follow
+2. ICG - Assignment, Condition, Control
+3. Left Recursion
+4. Left Factoring
+5. Macros
+6. Pass 1 assembler
+7. Code Optimisation
+8. Code Generation
